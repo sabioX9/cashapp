@@ -1,3 +1,5 @@
+#not so serious app
+
 import datetime
 import json
 import menu
